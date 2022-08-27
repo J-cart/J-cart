@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph 
+- 👋 Hi, I’m Joseph , [Resumé](https://docs.google.com/document/d/16GU1w9yJtq09msJxYGh6576JJy6UXbBdrpr9GS2bIVo/edit?usp=drivesdk)
 - 👀 I’m interested in software development in general
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on ... Android, Kotlin and KMM
